@@ -9,6 +9,14 @@
 */
 
 
+//Konsolen Ausgabe
+console.log("HI");
+console.log(firstName); 
+
+
+
+/** */
+
 
 /***** 02 Deklaration + Wertzuweisung I *******/
 
